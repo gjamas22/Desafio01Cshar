@@ -1,0 +1,11 @@
+C:\Users\GIJF\source\repos\Desafio01C\Desafio01C\bin\Debug\netcoreapp3.1\Desafio01C.exe
+C:\Users\GIJF\source\repos\Desafio01C\Desafio01C\bin\Debug\netcoreapp3.1\Desafio01C.deps.json
+C:\Users\GIJF\source\repos\Desafio01C\Desafio01C\bin\Debug\netcoreapp3.1\Desafio01C.runtimeconfig.json
+C:\Users\GIJF\source\repos\Desafio01C\Desafio01C\bin\Debug\netcoreapp3.1\Desafio01C.runtimeconfig.dev.json
+C:\Users\GIJF\source\repos\Desafio01C\Desafio01C\bin\Debug\netcoreapp3.1\Desafio01C.dll
+C:\Users\GIJF\source\repos\Desafio01C\Desafio01C\bin\Debug\netcoreapp3.1\Desafio01C.pdb
+C:\Users\GIJF\source\repos\Desafio01C\Desafio01C\obj\Debug\netcoreapp3.1\Desafio01C.csprojAssemblyReference.cache
+C:\Users\GIJF\source\repos\Desafio01C\Desafio01C\obj\Debug\netcoreapp3.1\Desafio01C.AssemblyInfoInputs.cache
+C:\Users\GIJF\source\repos\Desafio01C\Desafio01C\obj\Debug\netcoreapp3.1\Desafio01C.AssemblyInfo.cs
+C:\Users\GIJF\source\repos\Desafio01C\Desafio01C\obj\Debug\netcoreapp3.1\Desafio01C.dll
+C:\Users\GIJF\source\repos\Desafio01C\Desafio01C\obj\Debug\netcoreapp3.1\Desafio01C.pdb
